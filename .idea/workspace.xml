@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6b7e74c-f34d-4805-9bbc-9ba4f7ab9dfb" name="Default Changelist" comment="" />
+    <list default="true" id="e6b7e74c-f34d-4805-9bbc-9ba4f7ab9dfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HttpClientDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e87547d29ec8c7126fd4c24911b5c774f95ef45" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e87547d29ec8c7126fd4c24911b5c774f95ef45" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/faaed6546208e26e856a986e81d91db92872c7fb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/faaed6546208e26e856a986e81d91db92872c7fb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XMLProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/XMLProcessor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +27,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.0/libexec" />
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -44,11 +63,30 @@
     <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
     <property name="LombokPluginIS_VAL_Enabled" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HttpClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpClientDemo" />
+      <module name="HttpClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpClientDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -73,10 +111,60 @@
       <option name="presentableId" value="Default" />
       <updated>1583788245882</updated>
       <workItem from="1583788250038" duration="1203000" />
+      <workItem from="1584553869319" duration="525000" />
+      <workItem from="1586645767285" duration="26000" />
+      <workItem from="1587320053761" duration="4640000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1004" y="26" width="825" height="563" key="#xdebugger.evaluate" timestamp="1587328301206">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1004" y="26" width="825" height="563" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1587328301206" />
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom" timestamp="1587329414245">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587329414245" />
+    <state width="1878" height="366" key="GridCell.Tab.0.center" timestamp="1587329414243">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587329414243" />
+    <state width="1878" height="366" key="GridCell.Tab.0.left" timestamp="1587329414243">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587329414243" />
+    <state width="1878" height="366" key="GridCell.Tab.0.right" timestamp="1587329414244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587329414244" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1587329414246">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587329414246" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1587329414246">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587329414246" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1587329414245">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587329414245" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1587329414246">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587329414246" />
+    <state x="448" y="123" key="SettingsEditor" timestamp="1587327531345">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="123" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587327531345" />
+    <state width="960" height="584" key="XDebugger.FullValuePopup" timestamp="1587327582126">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="584" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1587327582126" />
+    <state width="960" height="584" key="XDebugger.FullValuePopup/0.23.1920.999@0.23.1920.999" timestamp="1587327502154" />
   </component>
 </project>
